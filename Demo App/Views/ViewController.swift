@@ -40,7 +40,7 @@ class ViewController: UIViewController, UISearchBarDelegate {
         let buttonImage = image?.withRenderingMode(.alwaysTemplate).withTintColor(.white)
         button.setImage(buttonImage, for: .normal)
         button.tintColor = .white
-        button.backgroundColor = .lightGray
+        button.backgroundColor = .systemBlue
         button.layer.cornerRadius = 30
         button.addTarget(self, action: #selector(displayStats), for: .touchUpInside)
         return button
