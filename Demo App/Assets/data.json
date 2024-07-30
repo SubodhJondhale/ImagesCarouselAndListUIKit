@@ -1,111 +1,112 @@
 
+
 [
     {
         "id": 0,
-        "image": "image",
-        "items" : [
+        "image": "photo1",
+        "items": [
             {
-                "title": "Item 1",
-                "subtitle": "Description 1",
-                "image": "image"
+                "title": "Audi",
+                "subtitle": "Luxury vehicle with superior comfort.",
+                "image": "photo1"
             },
             {
-                "title": "Item 2",
-                "subtitle": "Description 2",
-                "image": "image"
+                "title": "Merc",
+                "subtitle": "Elegant design with cutting-edge technology.",
+                "image": "photo2"
             },
             {
-                "title": "Item 3",
-                "subtitle": "Description 3",
-                "image": "image"
+                "title": "Lambo",
+                "subtitle": "Exotic sports car with impressive speed.",
+                "image": "photo3"
             },
             {
-                "title": "Item 4",
-                "subtitle": "Description 4",
-                "image": "image"
+                "title": "BMW",
+                "subtitle": "Sporty and dynamic driving experience.",
+                "image": "photo4"
             },
             {
-                "title": "Item 5",
-                "subtitle": "Description 5",
-                "image": "image"
+                "title": "RollsRoys",
+                "subtitle": "Ultimate luxury and refinement in every detail.",
+                "image": "photo5"
             }
         ]
     },
     {
         "id": 1,
-        "image": "image",
-        "items" : [
+        "image": "photo2",
+        "items": [
             {
-                "title": "Item 1",
-                "subtitle": "Description 1",
-                "image": "image"
+                "title": "Bugati",
+                "subtitle": "High-performance supercar with unparalleled acceleration.",
+                "image": "photo6"
             },
             {
-                "title": "Item 2",
-                "subtitle": "Description 2",
-                "image": "image"
+                "title": "RangeRover",
+                "subtitle": "Versatile SUV with advanced off-road capabilities.",
+                "image": "photo7"
             },
             {
-                "title": "Item 3",
-                "subtitle": "Description 3",
-                "image": "image"
+                "title": "Kia",
+                "subtitle": "Affordable and reliable with modern features.",
+                "image": "photo8"
             }
         ]
     },
     {
         "id": 2,
-        "image": "image",
-        "items" : [
+        "image": "photo3",
+        "items": [
             {
-                "title": "Item 1",
-                "subtitle": "Description 1",
-                "image": "image"
+                "title": "Tesla",
+                "subtitle": "Innovative electric vehicle with impressive range.",
+                "image": "photo9"
             },
             {
-                "title": "Item 2",
-                "subtitle": "Description 2",
-                "image": "image"
+                "title": "Ford",
+                "subtitle": "American classic with powerful performance and style.",
+                "image": "photo10"
             },
             {
-                "title": "Item 3",
-                "subtitle": "Description 3",
-                "image": "image"
+                "title": "Audi A6",
+                "subtitle": "Luxury sedan with advanced features.",
+                "image": "photo1"
             },
             {
-                "title": "Item 4",
-                "subtitle": "Description 4",
-                "image": "image"
+                "title": "Mercedes-Benz",
+                "subtitle": "Elegance meets performance.",
+                "image": "photo2"
             }
         ]
     },
     {
         "id": 3,
-        "image": "image",
-        "items" : [
+        "image": "photo4",
+        "items": [
             {
-                "title": "Item 1",
-                "subtitle": "Description 1",
-                "image": "image"
+                "title": "Lamborghini Huracan",
+                "subtitle": "Exotic sports car with unparalleled speed.",
+                "image": "photo3"
             },
             {
-                "title": "Item 2",
-                "subtitle": "Description 2",
-                "image": "image"
+                "title": "BMW X5",
+                "subtitle": "SUV with a blend of comfort and power.",
+                "image": "photo4"
             },
             {
-                "title": "Item 3",
-                "subtitle": "Description 3",
-                "image": "image"
+                "title": "Rolls-Royce Phantom",
+                "subtitle": "Ultimate luxury and refinement.",
+                "image": "photo5"
             },
             {
-                "title": "Item 4",
-                "subtitle": "Description 4",
-                "image": "image"
+                "title": "Bugatti Chiron",
+                "subtitle": "Hypercar with extraordinary performance.",
+                "image": "photo6"
             },
             {
-                "title": "Item 5",
-                "subtitle": "Description 5",
-                "image": "image"
+                "title": "Range Rover Vogue",
+                "subtitle": "Sophisticated SUV for adventure and comfort.",
+                "image": "photo7"
             }
         ]
     }
